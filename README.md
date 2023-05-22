@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Pedro+Feitosa;I'm+36+years+old;I'm+from+Brazil;I+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 💻 Working with front-end
+- 💻 Working front-end
 - 👨‍💻 I have experience with back-end
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedroarneiroz&bg_color=000000&color=00FF00&line=008000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
