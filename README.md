@@ -5,7 +5,6 @@
 - 💻 Working front-end
 - 👨‍💻 I have experience with back-end
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedroarneiroz&bg_color=000000&color=00FF00&line=008000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroarneiroz&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=FFFFFF&bg_color=000000" alt="Pedro Feitosa github stats" /> 
